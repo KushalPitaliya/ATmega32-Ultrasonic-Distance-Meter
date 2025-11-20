@@ -28,7 +28,7 @@ Unlike simple blocking implementations, this project utilizes **Hardware Interru
 
 ## 📂 Code Structure
 - `main.c`: Contains the main application logic, ISR implementation, and LCD driver functions.
-  
+
 https://github.com/user-attachments/assets/a3de5c33-8edc-407e-9333-327e87c976f7
 ---
 Kushal pitaliya
