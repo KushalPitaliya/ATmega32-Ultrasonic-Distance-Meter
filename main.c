@@ -52,7 +52,7 @@ int main(void)
         lcd_command(0x01); // Clear screen
         _delay_ms(2);
         
-        lcd_string("CIRCUIT DIGEST");
+        lcd_string("EC358 PROJECT");
         
         lcd_command(0xC0); // Move cursor to 2nd line
         lcd_string("DIST: ");
