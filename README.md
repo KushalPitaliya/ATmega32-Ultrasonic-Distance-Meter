@@ -2,11 +2,7 @@
 
 
 ## 📝 Overview
-This project implements a digital d
-
-https://github.com/user-attachments/assets/a3de5c33-8edc-407e-9333-327e87c976f7
-
-istance meter using the **AVR ATmega32 Microcontroller**. It interfaces with an **HC-SR04 Ultrasonic Sensor** to calculate distance and displays the result on a **16x2 LCD**.
+This project implements a digital distance meter using the **AVR ATmega32 Microcontroller**. It interfaces with an **HC-SR04 Ultrasonic Sensor** to calculate distance and displays the result on a **16x2 LCD**.
 
 Unlike simple blocking implementations, this project utilizes **Hardware Interrupts (INT0)** and **Timer1** to measure the echo pulse width with microsecond precision, ensuring the CPU remains efficient.
 
@@ -32,9 +28,7 @@ Unlike simple blocking implementations, this project utilizes **Hardware Interru
 
 ## 📂 Code Structure
 - `main.c`: Contains the main application logic, ISR implementation, and LCD driver functions.
-
-## 🙏 Acknowledgements
-Special thanks to **Miral Sir** and **Brijesh Sir** for their guidance on AVR Architecture, specifically regarding the implementation of Interrupts and Timers.
-
+  
+https://github.com/user-attachments/assets/a3de5c33-8edc-407e-9333-327e87c976f7
 ---
-*Author: [Your Name]*
+Kushal pitaliya
