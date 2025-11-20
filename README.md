@@ -1,5 +1,8 @@
 # Ultrasonic Distance Measurement using ATmega32 📏
 
+https://github.com/user-attachments/assets/a3de5c33-8edc-407e-9333-327e87c976f7
+
+
 
 ## 📝 Overview
 This project implements a digital distance meter using the **AVR ATmega32 Microcontroller**. It interfaces with an **HC-SR04 Ultrasonic Sensor** to calculate distance and displays the result on a **16x2 LCD**.
@@ -29,6 +32,5 @@ Unlike simple blocking implementations, this project utilizes **Hardware Interru
 ## 📂 Code Structure
 - `main.c`: Contains the main application logic, ISR implementation, and LCD driver functions.
 
-https://github.com/user-attachments/assets/a3de5c33-8edc-407e-9333-327e87c976f7
 ---
 Kushal pitaliya
