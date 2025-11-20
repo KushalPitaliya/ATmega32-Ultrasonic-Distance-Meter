@@ -1,6 +1,6 @@
 # Ultrasonic Distance Measurement using ATmega32 📏
 
-![Project Demo](microcontroller_demo.mp4)
+![Project Demo](Microcontroller_demo.mp4)
 *(Above: The working prototype measuring distance in real-time)*
 
 ## 📝 Overview
