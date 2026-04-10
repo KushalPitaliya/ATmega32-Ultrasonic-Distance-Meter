@@ -25,3 +25,8 @@ Thumbs.db
 
 # Binary archives
 *.zip
+
+# Video files
+*.mp4
+*.avi
+*.mkv
