@@ -22,3 +22,6 @@ Release/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Binary archives
+*.zip
