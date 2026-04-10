@@ -1,6 +1,9 @@
 # Ultrasonic Distance Measurement using ATmega32 📏
 
-![Project Demo](https://github.com/KushalPitaliya/ATmega32-Ultrasonic-Distance-Meter/raw/refs/heads/main/predeplete/Tmega-Ultrasonic-A-Distance-Meter-1.0.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![C](https://img.shields.io/badge/C-AVR-blue?logo=c)](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus)
+[![MCU](https://img.shields.io/badge/MCU-ATmega32-red)](https://www.microchip.com/en-us/product/ATmega32)
+[![Sensor](https://img.shields.io/badge/Sensor-HC--SR04-green)](https://www.sparkfun.com/products/15569)
 *(Above: The working prototype measuring distance in real-time)*
 
 ## 📝 Overview
